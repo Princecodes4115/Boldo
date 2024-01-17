@@ -1,10 +1,10 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import { Viewport } from "next/dist/lib/metadata/types/extra-types";
-import { Inter } from "next/font/google";
+import { Manrope } from "next/font/google";
 import Head from "next/head";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
