@@ -11,7 +11,7 @@ const BlogPage = () => {
   return (
     <>
       <div className="w-full h-full block">
-        {/* <Navbar /> */}
+        <Navbar />
         <div className="mt-[45px] lg:px-[60px] xl:px-[100px]">
           <div className="text-center flex flex-col gap-[12px]">
             <h6 className="text-[20px] font-normal text-[#0A2640] leading-[32px]">
