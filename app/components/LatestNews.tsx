@@ -4,7 +4,7 @@ import { newsData } from "../../utils/constants";
 
 const LatestNews = () => {
     return (
-        <div className="mt-[96px] lg:px-[40px] xl:px-[102px] flex flex-col items-center">
+        <div className="mt-[96px] lg:px-[40px] xl:px-[102px] flex flex-col items-center w-full">
             <h2 className="text-[48px] font-normal text-[#000000] leading-[84px] w-full">
                 Latest news
             </h2>
