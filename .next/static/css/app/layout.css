@@ -609,6 +609,12 @@ video {
 .top-0 {
   top: 0px;
 }
+.left-0 {
+  left: 0px;
+}
+.top-\[90px\] {
+  top: 90px;
+}
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -756,6 +762,9 @@ video {
 }
 .gap-\[25px\] {
   gap: 25px;
+}
+.gap-\[10px\] {
+  gap: 10px;
 }
 .space-y-2 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
@@ -947,6 +956,9 @@ video {
 .pt-5 {
   padding-top: 1.25rem;
 }
+.pt-\[52px\] {
+  padding-top: 52px;
+}
 .text-center {
   text-align: center;
 }
@@ -984,6 +996,9 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+.text-\[42px\] {
+  font-size: 42px;
 }
 .font-bold {
   font-weight: 700;
