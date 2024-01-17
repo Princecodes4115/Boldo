@@ -27,7 +27,7 @@ const Navbar = () => {
       </div>
 
       <ul
-        className={`lg:flex items-center gap-8 ${
+        className={`lg:flex items-center gap-8 pt-5 ${
           isMenuOpen ? "flex flex-col absolute top-[90px] left-0 right-0 bg-white" : "hidden"
         }`}
       >
